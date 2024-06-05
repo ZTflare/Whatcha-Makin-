@@ -1,0 +1,44 @@
+if player2_inv2 == 'None':
+        P2inv2ID = 0
+    elif player2_inv2 == 'Raw Burger':
+        P2inv2ID = 1
+    elif player2_inv2 == 'Cooked Burger':
+        P2inv2ID = 2
+    elif player2_inv2 == 'Lettuce':
+        P2inv2ID = 3
+    elif player2_inv2 == 'Bun':
+        P2inv2ID = 4
+    elif player2_inv2 == '2P':
+        P2inv2ID = 5
+    elif player2_inv2 == '2P&L':
+        P2inv2ID = 6
+    elif player2_inv2 == 'P&L':
+        P2inv2ID = 7
+    elif player2_inv2 == 'Dough':
+        P2inv2ID = 8
+    elif player2_inv2 == 'Chopped Beef':
+        P2inv2ID = 9 
+    elif player2_inv2 == 'Sauce':
+        P2inv2ID = 10
+    elif player2_inv2 == 'Red Soda':
+        P2inv2ID = 11
+    elif player2_inv2 == 'Blue Soda':
+        P2inv2ID = 12
+    elif player2_inv2 == 'Teal Soda':
+        P2inv2ID = 13
+    elif player2_inv2 == 'Pink Soda':
+        P2inv2ID = 14
+    elif player2_inv2 == 'Raw Pizza':
+        P2inv2ID = 15
+    elif player2_inv2 == 'Raw Cheese Pizza':
+        P2inv2ID = 16
+    elif player2_inv2 == 'Cheese Pizza':
+        P2inv2ID = 17
+    elif player2_inv2 == 'Beef Pizza':
+        P2inv2ID = 18
+    elif player2_inv2 == 'Potato':
+        P2inv2ID = 21
+    elif player2_inv2 == 'Raw Fries':
+        P2inv2ID = 22
+    elif player2_inv2 == 'Fries':
+        P2inv2ID = 23
